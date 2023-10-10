@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.exe
+C:\Users\User\Desktop\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.deps.json
+C:\Users\User\Desktop\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.runtimeconfig.json
+C:\Users\User\Desktop\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.dll
+C:\Users\User\Desktop\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.pdb
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.AssemblyInfo.cs
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.dll
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\refint\GerenciamentoDeEstoque.dll
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.pdb
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.genruntimeconfig.cache
+C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\ref\GerenciamentoDeEstoque.dll
