@@ -8,7 +8,7 @@ Pedro Antonio - RA: 622122907
 
 Emanuel Oliveira - RA: 622123015
 
-Marco Saraiva - RA:  622121911
+Marco Antônio Bernardes Saraiva - RA:  622121911
 
 ## **Sistema de Gerenciamento de Estoque**
 
