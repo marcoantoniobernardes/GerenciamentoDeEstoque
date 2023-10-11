@@ -4,7 +4,7 @@
 
 **Integrantes:**
 
-Pedro Antonio - RA: 622122907
+Pedro Antonio Esteves Silva - RA: 622122907
 
 Emanuel Oliveira - RA: 622123015
 
