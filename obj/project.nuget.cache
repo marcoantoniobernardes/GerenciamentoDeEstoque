@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mckkTfDUNPl9+0ImZNg6hUbQbeM+JJirvsKHhDEZ8PYU6WFki4sOHE3nOPrIHeUispfFWFjTeCINuydZR4ROXg==",
+  "dgSpecHash": "si57rjWIdW7s6FbUknMQLT/Wsp8kRZFDbGcIAZcagTBmxz4RJYVe+AoylO2yvWw340v8+/xtdybiNbZhSzg4KQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\chula\\Documents\\GitHub\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque\\GerenciamentoDeEstoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chula\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.11\\microsoft.netcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chula\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.11\\microsoft.windowsdesktop.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chula\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.11\\microsoft.aspnetcore.app.ref.7.0.11.nupkg.sha512",
+    "C:\\Users\\chula\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.11\\microsoft.netcore.app.host.win-x64.7.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
