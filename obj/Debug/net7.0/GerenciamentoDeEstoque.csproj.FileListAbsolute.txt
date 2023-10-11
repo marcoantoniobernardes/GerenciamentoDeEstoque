@@ -12,3 +12,17 @@ C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\refint\Gerenciamen
 C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.pdb
 C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.genruntimeconfig.cache
 C:\Users\User\Desktop\GerenciamentoDeEstoque\obj\Debug\net7.0\ref\GerenciamentoDeEstoque.dll
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.exe
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.deps.json
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.runtimeconfig.json
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.dll
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\bin\Debug\net7.0\GerenciamentoDeEstoque.pdb
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.AssemblyInfoInputs.cache
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.AssemblyInfo.cs
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.dll
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\refint\GerenciamentoDeEstoque.dll
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.pdb
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\GerenciamentoDeEstoque.genruntimeconfig.cache
+C:\Users\Marco Antônio\Desktop\gerenciamento\GerenciamentoDeEstoque\obj\Debug\net7.0\ref\GerenciamentoDeEstoque.dll

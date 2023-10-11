@@ -7,5 +7,6 @@ class HelloWorld {
     Produtos pd = new Produtos();
     
     pd.Iniciar();
+    Console.WriteLine("Boa Noite");
   }
 }
